@@ -75,6 +75,8 @@ body{
 #content{
     padding-top: 1px;
     padding-bottom: 50px;
+      float: right;
+    margin-left: 10px;
 }
 a.info-box{
       text-decoration : none;
