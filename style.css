@@ -111,7 +111,7 @@ a.info-box{
       color   : 131313;
 }
 
-.info-box img.right{
+.info-box right{
       float      : right;
       margin-top : 25px;
       height     40px; 
