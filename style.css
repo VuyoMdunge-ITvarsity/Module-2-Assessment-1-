@@ -177,3 +177,5 @@ a {
   #info-box-full h3{
       text-align : center;
 }
+.info-box {
+    text-align: justify;
