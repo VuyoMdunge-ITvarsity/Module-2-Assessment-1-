@@ -75,6 +75,11 @@ body{
 #content{
     padding-top: 1px;
     padding-bottom: 50px;
+     .info-box {
+    text-align: justify;
+right {
+    float: right;
+    margin-left: 10px;
 }
 a.info-box{
       text-decoration : none;
@@ -177,8 +182,3 @@ a {
   #info-box-full h3{
       text-align : center;
 }
-.info-box {
-    text-align: justify;
-right {
-    float: right;
-    margin-left: 10px;
