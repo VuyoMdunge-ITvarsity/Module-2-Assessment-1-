@@ -69,17 +69,12 @@ body{
 #main{
     margin-top: 119px;
     background: url('map-blur.png');
-    background-repeat: repeat-xy;
+    background-repeat: repeat-x;
 }
 
 #content{
     padding-top: 1px;
     padding-bottom: 50px;
-     .info-box {
-    text-align: justify;
-right {
-    float: right;
-    margin-left: 10px;
 }
 a.info-box{
       text-decoration : none;
@@ -174,11 +169,16 @@ textarea{
       margin : 12px 0;
       padding : 8px 0;
 }
-a {
-    text-align: center;
-    color: #006400; 
-    text-decoration: none;
+
+.right {
+    float: right;
+    margin-left: 10px;
 }
-  #info-box-full h3{
-      text-align : center;
+.right {
+    float: right;
+    margin-left: 10px;
+}
+
+#content {
+    clear: both;
 }
